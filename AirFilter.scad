@@ -1,3 +1,9 @@
+/*
+This is a room air filter, designed to take four 50mm radial fans and an LV-H132 replacement filter.
+
+Design By CeeBonEeee
+*/
+
 $fn=100;
 
 difference(){
